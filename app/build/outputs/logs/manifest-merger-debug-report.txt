@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:11:5-87:19
+	android:label
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:12:9-56
+activity#com.allfinish.MainActivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:19:13-45
+	android:launchMode
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:20:13-43
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:18:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.allfinish.method.first.SignUpActivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:28:19-75
+intent-filter#android.intent.category.DEFAULT+com.allfinish.method.first.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:29:13-33:29
+action#com.allfinish.method.first.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:30:17-84
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:30:25-81
+category#android.intent.category.DEFAULT
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:32:27-73
+activity#com.allfinish.method.first.FirstStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:35:9-73
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:35:19-70
+activity#com.allfinish.method.first.SecondStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:36:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:36:19-71
+activity#com.allfinish.method.first.ThirdStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:37:9-73
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:37:19-70
+activity#com.allfinish.method.first.FourthStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:38:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:38:19-71
+activity#com.allfinish.method.second.SignUpActivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:40:9-46:20
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:40:19-76
+intent-filter#android.intent.category.DEFAULT+com.allfinish.method.second.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:41:13-45:29
+action#com.allfinish.method.second.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:42:17-85
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:42:25-82
+activity#com.allfinish.method.second.FirstStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:47:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:47:19-71
+activity#com.allfinish.method.second.SecondStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:48:9-75
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:48:19-72
+activity#com.allfinish.method.second.ThirdStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:49:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:49:19-71
+activity#com.allfinish.method.second.FourthStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:50:9-75
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:50:19-72
+activity#com.allfinish.method.third.SignUpActivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:52:9-58:20
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:52:19-75
+intent-filter#android.intent.category.DEFAULT+com.allfinish.method.third.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:53:13-57:29
+action#com.allfinish.method.third.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:54:17-84
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:54:25-81
+activity#com.allfinish.method.third.FirstStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:59:9-73
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:59:19-70
+activity#com.allfinish.method.third.SecondStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:60:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:60:19-71
+activity#com.allfinish.method.third.ThirdStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:61:9-73
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:61:19-70
+activity#com.allfinish.method.third.FourthStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:62:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:62:19-71
+activity#com.allfinish.method.fourth.SignUpActivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:64:9-70:20
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:64:19-76
+intent-filter#android.intent.category.DEFAULT+com.allfinish.method.fourth.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:65:13-69:29
+action#com.allfinish.method.fourth.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:66:17-85
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:66:25-82
+activity#com.allfinish.method.fourth.FirstStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:71:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:71:19-71
+activity#com.allfinish.method.fourth.SecondStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:72:9-75
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:72:19-72
+activity#com.allfinish.method.fourth.ThirdStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:73:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:73:19-71
+activity#com.allfinish.method.fourth.FourthStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:74:9-75
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:74:19-72
+activity#com.allfinish.method.fifth.SignUpActivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:76:9-82:20
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:76:19-75
+intent-filter#android.intent.category.DEFAULT+com.allfinish.method.fifth.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:77:13-81:29
+action#com.allfinish.method.fifth.signupactivity
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:78:17-84
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:78:25-81
+activity#com.allfinish.method.fifth.FirstStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:83:9-73
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:83:19-70
+activity#com.allfinish.method.fifth.SecondStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:84:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:84:19-71
+activity#com.allfinish.method.fifth.ThirdStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:85:9-73
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:85:19-70
+activity#com.allfinish.method.fifth.FourthStep
+ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:86:9-74
+	android:name
+		ADDED from E:\temporary_workingspace\AndroidStudioProjectsTest\AllFinish1\app\src\main\AndroidManifest.xml:86:19-71

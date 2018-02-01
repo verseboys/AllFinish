@@ -1,0 +1,63 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,11,7,10,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "106,58,160,553,219,483,311,383",
+                        "endColumns": "52,46,52,111,90,68,70,98",
+                        "endOffsets": "154,100,208,660,305,547,377,477"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,9,11,13,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,269,322,427,511,573,637",
+                        "endLines": "4,5,6,8,10,12,14,16",
+                        "endColumns": "52,46,52,61,40,17,19,48",
+                        "endOffsets": "217,264,317,422,506,568,632,724"
+                    }
+                },
+                {
+                    "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,29,19,33",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "191,522,1162,687,1340",
+                        "endLines": "12,17,32,27,36",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "481,679,1334,1150,1515"
+                    },
+                    "to": {
+                        "startLines": "17,24,27,31,40",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "729,1020,1180,1354,1814",
+                        "endLines": "23,26,30,39,43",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1015,1175,1349,1809,1986"
+                    }
+                },
+                {
+                    "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

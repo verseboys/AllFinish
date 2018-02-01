@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fourth_step.xml.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\layout\\fourth_step.xml"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\layout_signup.xml.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\layout\\signup.xml"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\layout_first_step.xml.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\layout\\first_step.xml"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\layout_third_step.xml.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\layout\\third_step.xml"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\build\\intermediates\\res\\merged\\debug\\layout_second_step.xml.flat",
+        "source": "E:\\temporary_workingspace\\AndroidStudioProjectsTest\\AllFinish1\\app\\src\\main\\res\\layout\\second_step.xml"
+    }
+]
